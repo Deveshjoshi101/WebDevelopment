@@ -77,7 +77,7 @@ nav a:hover {
 }
 
 #img-div img {
-  max-width: 100%; /* Limit the image width to its container's width */
+  max-width: 50%; /* Limit the image width to its container's width */
   height: auto; /* Maintain the image's aspect ratio */
 }
 
