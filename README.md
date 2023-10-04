@@ -76,4 +76,4 @@ git push origin feature-name
 
 ## License
 
-1. This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
