@@ -49,5 +49,5 @@ If you'd like to contribute to this project, please follow these guidelines:
 6. Please ensure your code follows the project's coding standards and conventions.
 
 ## License
-1. This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
